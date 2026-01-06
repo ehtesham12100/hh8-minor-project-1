@@ -28,7 +28,10 @@ The goal of this project is to help users detect malicious links before visiting
 - GitHub for version control
 
 ---
-
+## Security Note
+Used my own Google Safe Browsing API key for real-time phishing detection.  
+For security reasons, the API key is not committed to the repository.
+use own API
 ## How to Run the Project
 
 1. Install Required Libraries
